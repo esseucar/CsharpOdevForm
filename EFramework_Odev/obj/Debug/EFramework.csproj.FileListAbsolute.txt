@@ -1,0 +1,16 @@
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EFramework.exe.config
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EFramework.exe
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EFramework.pdb
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EntityFramework.dll
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EntityFramework.xml
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.csproj.AssemblyReference.cache
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.Properties.Resources.resources
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.csproj.GenerateResource.cache
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.csproj.CoreCompileInputs.cache
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.csproj.CopyComplete
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.exe
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramework.pdb
+C:\Users\khas\Desktop\Csharp_calismalar\EFramework\obj\Debug\EFramwork.Form1.resources
